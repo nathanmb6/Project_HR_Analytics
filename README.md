@@ -13,7 +13,7 @@ MySQL:
   1. Drop Unnecessary Columns
   2. Interpret Classification Values
 
-# Exploratory Data Analyst (EDA)
+# Exploratory Data Analysis (EDA)
 MySQL:
   1. Investigated attrition based on the frequency of business travel.
   2. Analyzed attrition in each department.
