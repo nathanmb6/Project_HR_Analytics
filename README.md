@@ -4,6 +4,10 @@ In this project, our focus is on analyzing employee attrition, environmental sat
 Source:
 https://www.kaggle.com/datasets/pavansubhasht/ibm-hr-analytics-attrition-dataset
 
+# Tools
+1. MySQL
+2. Tableau
+
 # Data Cleaning:
 MySQL:
   1. Drop Unnecessary Columns
@@ -26,4 +30,5 @@ MySQL:
   13. Analyzed the financial situation of employees in different job positions.
 
 # Data Visualization
-https://public.tableau.com/app/profile/nahtaniel.iskandar/viz/ProjectIBMHRAnalyticsEmployeeAttritionPerformance/EmployeePerformanceDashboard
+Tableau:
+  https://public.tableau.com/app/profile/nahtaniel.iskandar/viz/ProjectIBMHRAnalyticsEmployeeAttritionPerformance/EmployeePerformanceDashboard
