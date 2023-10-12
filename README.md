@@ -5,11 +5,11 @@ Source:
 https://www.kaggle.com/datasets/pavansubhasht/ibm-hr-analytics-attrition-dataset
 
 # Tools
-1. MySQL
-2. Tableau
+  1. MySQL
+  2. Tableau
+  3. Python
 
 # Data Cleaning:
-MySQL:
   1. Drop Unnecessary Columns
   2. Interpret Classification Values
 
@@ -29,6 +29,21 @@ MySQL:
   12. Explored the impact of relationship satisfaction on performance.
   13. Analyzed the financial situation of employees in different job positions.
 
+Python:
+  1. Data Distribution for object Columns
+  2. Data Distribution for numeric Columns
+  3. Calculate the correlation matrix
+
 # Data Visualization
 Tableau:
   https://public.tableau.com/app/profile/nahtaniel.iskandar/viz/ProjectIBMHRAnalyticsEmployeeAttritionPerformance/EmployeePerformanceDashboard
+
+# Machine Learning Model
+Python:
+  1. Preprocessing Dataset
+  2. Training & Testing Data
+  3. LogisticRegression Model
+  4. Naive Bayes Model
+  5. KNeighborsClassifier Model
+  6. RandomForestClassifier Model
+  7. GradientBoostingClassifier Model
